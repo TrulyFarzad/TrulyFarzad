@@ -1,7 +1,7 @@
 ### Farzad Noraste
 
 #### 🎓 Biomedical Engineering Student at Ferdowsi University of Mashhad 
-#### 🌱 Enthisiastic About AI, Fuzzy Logic and Complex Adaptive Systems 
+#### 🌱 Enthusiastic About AI, Fuzzy Logic and Complex Adaptive Systems 
 #### 🔭 Aspiring Quant Trader 
 #### 📫 You Can Find Me by @trulyfarzad 
 <!--
