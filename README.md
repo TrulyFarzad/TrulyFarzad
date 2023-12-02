@@ -1,5 +1,9 @@
-### Hi there 👋
+### Farzad Noraste
 
+#### 🎓 Biomedical Engineering Student at Ferdowsi University of Mashhad 
+#### 🌱 Enthisiastic About AI, Fuzzy Logic and Complex Adaptive Systems 
+#### 🔭 Aspiring Quant Trader 
+#### 📫 You Can Find Me Anywhere with @trulyfarzad 
 <!--
 **TrulyFarzad/TrulyFarzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
