@@ -3,7 +3,7 @@
 #### 🎓 Biomedical Engineering Student at Ferdowsi University of Mashhad 
 #### 🌱 Enthusiastic About AI, Fuzzy Logic and Complex Adaptive Systems 
 #### 🔭 Aspiring Quant Trader 
-#### 📫 You Can Find Me by @trulyfarzad 
+#### 📫 You Can Find Me by Everywhere by @trulyfarzad 
 <!--
 **TrulyFarzad/TrulyFarzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
